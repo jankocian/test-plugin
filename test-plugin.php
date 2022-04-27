@@ -1,3 +1,4 @@
+<?php
 /**
  * Plugin Name:       Test Plugin
  * Plugin URI:        https://github.com/jankocian/test-plugin
